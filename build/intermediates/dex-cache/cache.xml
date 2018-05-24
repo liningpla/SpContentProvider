@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\resorse\SPHelper-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="G:\resorse\SPHelper-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_286f43ae0c579a008007420fdb2a082b1e6a8e2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\resorse\SPHelper-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="34c31b06caa478e4d1fbdac0af1476bb97a29e2f">
+        <dex dex="G:\resorse\SPHelper-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a469744ff0e7263cdb0bbf60b21b7c7c34ffb8c9\classes.dex" />
+    </item>
+
+</items>
